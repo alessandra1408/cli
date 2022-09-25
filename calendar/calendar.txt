@@ -1,0 +1,11 @@
+- Passos manuais para realizar esse processo:
+
+    - Clicar e abrir o programa
+    - Clicar e digitar o usuario
+    - Clicar e digitar a senha
+    - Clicar em "Entrar"
+    - Extrair cada produto
+        - Clicar e digitar produto
+        - Clicar e digitar quantidade
+        - Clicar e digitar preço
+        - Clicar em "Registrar"
